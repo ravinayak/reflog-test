@@ -1,1 +1,2 @@
 Updated in merge-source branch : This is a new file :: file1.txt
+Updated in merge-target branch : This is a new file :: file1.txt
