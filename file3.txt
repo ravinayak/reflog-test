@@ -1,2 +1,3 @@
 Updated in merge-source : This is a new file :: file3.txt
 Update - This is merge-target branch : This is a new file :: file3.txt
+Updated in rebase-merge-branch-target : Update - This is merge-target branch : This is a new file :: file3.txt
