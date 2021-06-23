@@ -1,1 +1,2 @@
 Updated in Repository: Updated in rebase-merge-branch-target : This is a new file :: file2.txt
+Updated in topic-branch-4 locally This is a new file :: file2.txt
