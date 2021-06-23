@@ -1,1 +1,2 @@
 Updated in topic-branch-4-merged-with-merge-source : This is a new file in merge-target branch
+Updated in merge-source : Updated in merge-source : Updated in merge-source : This is a new file in merge-target branch
