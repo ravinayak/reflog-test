@@ -1,2 +1,2 @@
-Updated in merge-source : This is a new file :: file3.txt
+Updated in merge-source : Updated in merge-source : This is a new file :: file3.txt
 Update - This is merge-target branch : This is a new file :: file3.txt
