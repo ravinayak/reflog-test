@@ -1,1 +1,1 @@
-This is a new file :: file3.txt
+Updated in a before revert commit : This is a new file :: file3.txt
