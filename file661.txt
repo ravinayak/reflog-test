@@ -1,0 +1,1 @@
+This is 1st new commit in a series of commits to test bisect - file6661.txt
