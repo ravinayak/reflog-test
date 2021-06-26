@@ -1,2 +1,2 @@
 This is 1st new commit in a series of commits to test bisect - file6662.txt
-Adding 2nd line in 6th commit to test bisect
+Updated 2nd line in 9th commit to test bisect : Adding 2nd line in 6th commit to test bisect
