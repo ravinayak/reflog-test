@@ -1,1 +1,1 @@
-This is a new file :: file3.txt
+Updated in rebase-options-branch-2 : This is a new file :: file3.txt
