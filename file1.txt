@@ -1,1 +1,1 @@
-Updated in rebase-options-branch-1 : This is a new file :: file1.txt
+Updated in master : Updated in rebase-options-branch-1 : This is a new file :: file1.txt
