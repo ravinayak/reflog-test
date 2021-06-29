@@ -1,1 +1,1 @@
-This is a new file :: file2.txt
+Updated in empty-commit-branch : This is a new file :: file2.txt
