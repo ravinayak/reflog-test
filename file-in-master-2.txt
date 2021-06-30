@@ -1,2 +1,3 @@
+New line added to create merge conflict with feedback-bug branch
 Updated again to create merge conflict : Updated in master-subsystem : New file created in master - file-in-master-2
 Updated in master-subsystem-refactor-button to create merge conflict with master-subsystem : Updated in master-subsystem : New file created in master - file-in-master-2
