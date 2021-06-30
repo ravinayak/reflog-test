@@ -1,1 +1,2 @@
 Updated again to create merge conflict : Udpated in master-subsystem : New file created in master - file-in-master-1
+Updated in refactor button to create merge conflict with master-subsystem: Udpated in master-subsystem : New file created in master - file-in-master-1
