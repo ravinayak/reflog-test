@@ -1,0 +1,46 @@
+label onto
+reset onto
+
+pick 63cd1ed Updated master-subsystem : file-in-master-1.txt
+pick 3c5ff36 Updated master-subsystem : file-in-master-2.txt
+pick d09085c Updated master-subsystem : file-in-master-3.txt
+
+label msrb
+
+pick d14520e New file in master-subsystem post master-subsystem-refactor-branch cut - master-sb-1.txt
+pick f1e6c55 New file in master-subsystem post master-subsystem-refactor-branch cut - master-sb-2.txt
+pick 37b76bd New file - in master-subsystem-refactor-button-feedback-bug - file-in-master-sb-1.txt
+pick 9c48f01 New file - in master-subsystem-refactor-button-feedback-bug - file-in-master-sb-2.txt
+pick 95ff494 File updated to create merge conflict with master-subsystem-refactor-button - file-in-master-1.txt
+pick 4f37753 File updated to create merge conflict with master-subsystem-refactor-button - file-in-master-2.txt
+
+label ms
+reset msrb
+
+pick 923dce0 New file created in merge-subsystem-refactor button - file-in-master-subsystem-refactor-button-1.txt
+pick 3c6c421 New file created in merge-subsystem-refactor button - file-in-master-subsystem-refactor-button-2.txt
+pick 8e8f6ea Updatd file to create conflict with master-subsystem during merge -file-in-master-1.txt
+pick b2b20f6 Updatd file to create conflict with master-subsystem during merge -file-in-master-2.txt
+
+label msrbfb
+
+pick 9c57bdc New file created in master-subsystem-refactor-button - file-in-master-sbrb-1.txt
+pick 9575e14 New file created in master-subsystem-refactor-button - file-in-master-sbrb-2.txt
+
+label msrb-merge-point
+
+reset msrbfb
+
+pick 5380d6f New file - in master-subsystem-refactor-button-feedback-bug - file-in-master-sbrbfb-1.txt
+pick 57d809a New file - in master-subsystem-refactor-button-feedback-bug - file-in-master-sbrbfb-2.txt
+pick 75a4222 File updated to create merge conflict with master-subsystem-refactor-button-feedback-bug - file-in-master-1.txt
+
+label msrbfb-merge-point
+
+reset ms
+merge -C a583122 msrb-merge-point
+pick 82c1e62 New file - in master-subsystem-refactor-button-feedback-bug - file-in-master-sb-3.txt
+pick 1aa445d Updated file to create merge conflict with master-subsystem-refactor-button-feedback-bug branch - file-in-master-2.txt
+
+merge -C c8d2aba msrbfb-merge-point
+
