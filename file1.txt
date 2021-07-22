@@ -1,1 +1,1 @@
-Conflict resolved during rebase of subsystem on topicA : Updated in Subsystem branch : Updated in topicA - more changes post subsystem branch cut: This is a new file :: file1.txt
+Conflict resolved during rebase of subsystem on topicA : Updated in subsystem topic branch : Conflict resolved during rebase of subsystem on topicA : Updated in Subsystem branch : Updated in topicA - more changes post subsystem branch cut: This is a new file :: file1.txt
