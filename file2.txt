@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Updated in master : This is a new file :: file2.txt : This line is added in master to create merge conflict
 Updated in merges master : This is a new file :: file2.txt
+=======
+Updated again in merges-master post merge - Updated in merges master : This is a new file :: file2.txt
+>>>>>>> 14ce9ec (Updated in merges master post merge to cause conflict - file2.txt)
