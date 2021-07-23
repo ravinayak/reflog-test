@@ -1,1 +1,1 @@
-Updated in rebase-merges branch : This is a new file :: file2.txt
+Updated again in merges-master post merge - Updated in merges master : This is a new file :: file2.txt
