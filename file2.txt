@@ -1,1 +1,2 @@
 Updated in master : This is a new file :: file2.txt : This line is added in master to create merge conflict
+Updated in rebase-merges branch : This is a new file :: file2.txt
