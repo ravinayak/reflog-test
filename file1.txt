@@ -1,2 +1,3 @@
 Updated in master : Updated in rebase-options-branch-1 : This is a new file :: file1.txt : This is a new line added in master to create merge conflict
 Updated in rebase-merges branch to cause merge conflict : This is a new file :: file1.txt
+Updated in merges-master to create merge conflict : This is a new file :: file1.txt
