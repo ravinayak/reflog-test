@@ -1,2 +1,3 @@
 Updated in master : This is a new file :: file3.txt
 Updated in merges-master branch post merge : This is a new file :: file3.txt
+Updated in rebase merges branch post merge : This is a new file :: file3.txt
