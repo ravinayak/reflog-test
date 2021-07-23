@@ -2,3 +2,4 @@ Updated in master : This is a new file :: file2.txt : This line is added in mast
 Updated in rebase-merges branch : This is a new file :: file2.txt
 Updated in merges master : This is a new file :: file2.txt
 Updated again in merges-master post merge - Updated in merges master : This is a new file :: file2.txt
+Updated in rebase merges branch post merge - Conflict resolved during merge of merges-master to rebase-merges - Updated in merges master - Updated in rebase-merges branch : This is a new file :: file2.txt
